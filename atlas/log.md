@@ -1,0 +1,14 @@
+- 2026-08-26: Initiated subject Atlas for discuss (SCHEMA, templates, autogenesis space) during design work_id 2026-08-26-discuss-mvp.
+- 2026-08-26: Implemented discuss MVP v0.1.0 (work_id 2026-08-26-discuss-mvp). Seeded thesis/residuals/founding. Construct eval deferred.
+- 2026-08-26: Retrospective from-conversation pass. Founding fabric expanded (counters, refinements, research, side branch, conclusion). Path references/paths/from-conversation.md added.
+- 2026-08-26: Residual leaves added (type residual, status open, growth true). SCHEMA + template residual.md.
+- 2026-08-26: Design plan 2026-08-26-discuss-sprout-leaves persisted. Waiting for approval.
+- 2026-08-26: Implemented sprout + protostar (work_id 2026-08-26-discuss-sprout-leaves). v0.2.0.
+- 2026-08-26: Sprout pass on founding discussion. Five new protostars from surviving bullets.
+- 2026-08-26: KVA terminate protostar concept hub. Stars link only to origin conversation nodes.
+- 2026-08-26: Lint path L1 no hub files captured (work_id 2026-08-26-discuss-lint).
+- 2026-08-26: Opened wire/ discussion_root for Autogenesis discuss-activation (work_id 2026-08-26-autogenesis-discuss-activation).
+- 2026-08-26: Opened kva-tighten/ discussion_root for protostar/KVA contract (work_id 2026-08-26-kva-protostar-tighten). Discussion only.
+- 2026-08-26: Design plan 2026-08-26-kva-protostar-tighten persisted (five-state KVA + SCHEMA/lint). Waiting for approval.
+- 2026-08-26: Implemented five-state KVA (work_id 2026-08-26-kva-protostar-tighten). discuss v0.3.0. Construct specify deferred.
+- 2026-08-26: recorded sprout 0.3.1 under work 2026-08-26-residuals-vs-protostar.

@@ -1,0 +1,26 @@
+# Protostars
+
+File list only. Not a graph hub. Do not add relates_to edges here.
+
+- [terminated catalog stub](open.md)
+- [pruning-criteria](pruning-criteria.md)
+- [reality-marking](reality-marking.md)
+- [navigability-bounds](navigability-bounds.md)
+- [amortization-breakeven](amortization-breakeven.md)
+- [kva-value-criteria](kva-value-criteria.md)
+- [kva-cadence](kva-cadence.md)
+- [kva-terminate-encoding](kva-terminate-encoding.md)
+- [surfacing](surfacing.md)
+- [consult-trigger](consult-trigger.md)
+- [consult-bound](consult-bound.md)
+- [conclusion-lineage](conclusion-lineage.md)
+- [wire-autogenesis](wire-autogenesis.md) — done (path discuss shipped)
+- [specify-behavioural-contract](specify-behavioural-contract.md)
+- [construct-score-adversarial](construct-score-adversarial.md)
+- [construct-path-discuss](construct-path-discuss.md)
+- [typed-search](typed-search.md)
+- [folder-name-protostars](folder-name-protostars.md)
+- [typed-cross-atlas-relates](typed-cross-atlas-relates.md)
+- [subject-atlas-discuss-folder](subject-atlas-discuss-folder.md)
+- [path-vs-skill-name-discuss](path-vs-skill-name-discuss.md)
+- [implement-autogenesis-discuss-path](implement-autogenesis-discuss-path.md) — done (implemented)
