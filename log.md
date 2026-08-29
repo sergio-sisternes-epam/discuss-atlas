@@ -12,3 +12,4 @@
 - 2026-08-26: Design plan 2026-08-26-kva-protostar-tighten persisted (five-state KVA + SCHEMA/lint). Waiting for approval.
 - 2026-08-26: Implemented five-state KVA (work_id 2026-08-26-kva-protostar-tighten). discuss v0.3.0. Construct specify deferred.
 - 2026-08-26: recorded sprout 0.3.1 under work 2026-08-26-residuals-vs-protostar.
+- 2026-08-30: Flattened OKF root to git root. SCHEMA.json and index.md now live at repository root (no nested atlas/).
