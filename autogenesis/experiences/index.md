@@ -7,3 +7,5 @@
 - [Implement five-state KVA](2026-08-26-implement-kva-protostar-tighten.md)
 - [Implement walk-back path](2026-08-29-implement-walk-back.md)
 - [Feedback: discuss hard to read](2026-08-29-feedback-discuss-hard-to-read.md)
+- [Implement discuss speak path 0.3.6](2026-08-31-implement-discuss-speak-path.md)
+- [Implement discuss constellation 0.3.7](2026-08-31-implement-discuss-constellation-path.md)
