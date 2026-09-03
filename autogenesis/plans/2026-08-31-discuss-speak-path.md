@@ -1,8 +1,8 @@
 ---
 type: plan
 title: "Design — always-on discuss speak path"
-created: 2026-08-31
-work_id: 2026-08-31-discuss-speak-path
+created: "2026-08-31"
+work_id: "2026-08-31-discuss-speak-path"
 status: done
 change_class: new-surface
 subject: discuss

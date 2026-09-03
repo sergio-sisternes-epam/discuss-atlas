@@ -11,6 +11,7 @@ status: settled
 kva: alive
 origin: internal
 sensitivity: internal
+description: "Shipped constellation as the official join path; checkpoint is the synonym."
 relates_to:
   - path: autogenesis/work/2026-08-31-discuss-constellation-path.md
     kind: implements
@@ -32,6 +33,8 @@ Discuss 0.3.7.
 
 ## Changed files
 
-- `references/paths/constellation.md`
-- `references/paths/consolidate.md`
-- `SKILL.md`
+These live in the discuss skill package, not this store:
+
+- `/home/workdir/.grok/skills/discuss/references/paths/constellation.md`
+- `/home/workdir/.grok/skills/discuss/references/paths/consolidate.md`
+- `/home/workdir/.grok/skills/discuss/SKILL.md`
