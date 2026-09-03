@@ -8,3 +8,5 @@
 - [2026-08-26-autogenesis-discuss-activation](2026-08-26-autogenesis-discuss-activation.md)
 - [2026-08-26-kva-protostar-tighten](2026-08-26-kva-protostar-tighten.md)
 - [2026-08-29-discuss-walk-back-path](2026-08-29-discuss-walk-back-path.md) — designed
+- [2026-08-31-discuss-speak-path](2026-08-31-discuss-speak-path.md) — done
+- [2026-08-31-discuss-constellation-path](2026-08-31-discuss-constellation-path.md) — done
