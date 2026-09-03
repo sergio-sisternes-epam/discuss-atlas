@@ -1,8 +1,8 @@
 ---
 type: plan
 title: "Design — discuss constellation path"
-created: 2026-08-31
-work_id: 2026-08-31-discuss-constellation-path
+created: "2026-08-31"
+work_id: "2026-08-31-discuss-constellation-path"
 status: done
 change_class: hardening
 subject: discuss

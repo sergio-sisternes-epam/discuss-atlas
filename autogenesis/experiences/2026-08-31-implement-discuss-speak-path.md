@@ -11,6 +11,7 @@ status: settled
 kva: alive
 origin: internal
 sensitivity: internal
+description: "Shipped the always-on speak prefix and human-turn sentence rules in the discuss package."
 relates_to:
   - path: autogenesis/work/2026-08-31-discuss-speak-path.md
     kind: implements
@@ -32,6 +33,8 @@ Path shipped in the discuss package. Construct deferred.
 
 ## Changed files
 
-- `references/paths/speak.md`
-- `references/human-turn.md`
-- `SKILL.md`
+These live in the discuss skill package, not this store:
+
+- `/home/workdir/.grok/skills/discuss/references/paths/speak.md`
+- `/home/workdir/.grok/skills/discuss/references/human-turn.md`
+- `/home/workdir/.grok/skills/discuss/SKILL.md`
