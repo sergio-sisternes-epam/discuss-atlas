@@ -22,3 +22,9 @@ New discuss path `speak`. Always loaded on Enter.
 ## Status
 
 done — discuss 0.3.6 first stage. Construct deferred.
+
+## Outcomes
+
+- Path `speak` exists in the discuss package.
+- Enter is incomplete without `speak_loaded: yes` on the activation card.
+- Sentence-shape rules live in `human-turn.md`.

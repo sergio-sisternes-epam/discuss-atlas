@@ -20,3 +20,8 @@ Path constellation on discuss 0.3.7.
 ## Status
 
 done
+
+## Outcomes
+
+- Registry lists constellation; checkpoint is the synonym.
+- Views use the `constellation-` filename prefix and wrap consolidate sections under standing / set aside / still open.

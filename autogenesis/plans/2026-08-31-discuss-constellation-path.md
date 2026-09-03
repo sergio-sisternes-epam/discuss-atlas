@@ -3,7 +3,7 @@ type: plan
 title: "Design — discuss constellation path"
 created: "2026-08-31"
 work_id: "2026-08-31-discuss-constellation-path"
-status: done
+status: approved
 change_class: hardening
 subject: discuss
 kva: alive
@@ -25,7 +25,11 @@ Add discuss path constellation. Reuse consolidate contract. No new cosmology lay
 - Official path_id: constellation
 - Synonym: checkpoint
 - Filename prefix constellation-
-- Body: standing, set aside, still open
+- Body: standing, set aside, still open wrapping consolidate sections
+
+## Genesis Artifacts
+
+None beyond this plan and path `references/paths/constellation.md` in the discuss package. No new diagrams.
 
 ## Acceptance
 

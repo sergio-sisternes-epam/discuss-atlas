@@ -3,7 +3,7 @@ type: plan
 title: "Design — always-on discuss speak path"
 created: "2026-08-31"
 work_id: "2026-08-31-discuss-speak-path"
-status: done
+status: approved
 change_class: new-surface
 subject: discuss
 kva: alive
@@ -28,7 +28,11 @@ Add an always-on speak path. Load it on every discuss Enter, before any user-fac
 
 - Problem is sentence structure, not jargon.
 - speak is a mandatory prefix, not a third public mode.
-- Enforce the load in Enter and in the path receipt.
+- Enforce the load in Enter and on the activation card.
+
+## Genesis Artifacts
+
+None beyond this plan and path `references/paths/speak.md` in the discuss package. No new diagrams.
 
 ## Acceptance
 
