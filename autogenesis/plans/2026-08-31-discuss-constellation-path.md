@@ -4,12 +4,12 @@ title: "Design — discuss constellation path"
 created: "2026-08-31"
 work_id: "2026-08-31-discuss-constellation-path"
 status: approved
-change_class: hardening
+change_class: new-surface
 subject: discuss
 kva: alive
 description: "Thin join cadence on top of consolidate. Official name constellation. Synonym checkpoint."
 plan_path: autogenesis/plans/2026-08-31-discuss-constellation-path.md
-catalogue_review: n/a
+catalogue_review: in-scope
 behavioural_contract: deferred: thin alias path
 relates_to:
   - path: autogenesis/work/2026-08-31-discuss-constellation-path.md
