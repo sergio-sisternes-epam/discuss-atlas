@@ -10,6 +10,8 @@ description: "Purpose pin. Generation happens in human-AI conversation."
 origin: user
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: founding/c3-insight.md
     kind: follows
   - path: founding/c3-insight.md

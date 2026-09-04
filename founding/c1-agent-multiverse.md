@@ -10,6 +10,8 @@ description: "User answer to Counter 1. Agent files. Branches may co-exist. Prun
 origin: user
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: founding/c1-maintenance-tax.md
     kind: follows
   - path: founding/c1-amortization.md

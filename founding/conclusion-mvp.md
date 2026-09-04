@@ -10,6 +10,8 @@ description: "Lineage node. The conversation ended in a skill plus this activati
 origin: derived
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: founding/hub.md
     kind: records
   - path: founding/c5-mode-plus-graph.md

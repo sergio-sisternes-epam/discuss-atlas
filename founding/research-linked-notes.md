@@ -10,6 +10,8 @@ description: "External sources used in the founding think-challenge. Not a full 
 origin: third-party
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: founding/c1-maintenance-tax.md
     kind: records
   - path: founding/c2-reification.md

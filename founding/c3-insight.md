@@ -10,6 +10,8 @@ description: "Live-blocker version of Counter 3. Terminated after record-not-eng
 origin: derived
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: kva-tighten/reasons/historical-migration.md
     kind: kva_terminate
   - path: founding/original-idea.md

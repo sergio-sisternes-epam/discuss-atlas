@@ -10,6 +10,8 @@ description: "Cost argument that closed the residual of Counter 1."
 origin: user
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: founding/c1-agent-multiverse.md
     kind: follows
   - path: founding/c1-maintenance-tax.md
