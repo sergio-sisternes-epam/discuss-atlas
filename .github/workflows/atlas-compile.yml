@@ -64,8 +64,8 @@ jobs:
             --root "$ROOT" --json > atlas-compile.json
           status=$?
           set -e
-          python3 -m json.tool atlas-compile.json >/dev/null
           cat atlas-compile.json
+          python3 -m json.tool atlas-compile.json >/dev/null
           echo "compile_exit=$status" >> "$GITHUB_OUTPUT"
           if [ "$status" -ge 2 ]; then
             exit "$status"
