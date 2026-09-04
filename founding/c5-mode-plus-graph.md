@@ -10,6 +10,8 @@ description: "Complementary pair. Mode has no implement authority. Graph persist
 origin: user
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: founding/c5-existing-mode.md
     kind: follows
   - path: founding/c5-existing-mode.md

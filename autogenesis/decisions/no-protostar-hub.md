@@ -6,6 +6,8 @@ status: accepted
 work_id: "2026-08-26-discuss-sprout-leaves"
 description: "A catalog page that every protostar points at creates shortcuts across disconnected topics."
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-sprout-leaves.md
+    kind: implements
   - path: autogenesis/decisions/protostar-type-name.md
     kind: related
   - path: residuals/open.md

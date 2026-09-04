@@ -10,6 +10,8 @@ description: "Retrospective application of sprout to the founding discussion fab
 origin: internal
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-sprout-leaves.md
+    kind: implements
   - path: founding/hub.md
     kind: derived_from
   - path: founding/conclusion-mvp.md

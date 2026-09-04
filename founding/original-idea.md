@@ -10,6 +10,8 @@ description: "The starting claim that was challenged and then refined."
 origin: user
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: founding/hub.md
     kind: derived_from
   - path: founding/c1-maintenance-tax.md

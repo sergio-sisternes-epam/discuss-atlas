@@ -10,6 +10,8 @@ description: "Frame raised mid-conversation then set aside so original counters 
 origin: user
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: founding/hub.md
     kind: related
   - path: founding/conclusion-mvp.md

@@ -6,6 +6,8 @@ status: accepted
 work_id: "2026-08-26-discuss-sprout-leaves"
 description: "Pinned naming. Pending growth nodes are protostars on the Atlas sky."
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-sprout-leaves.md
+    kind: implements
   - path: autogenesis/plans/2026-08-26-discuss-sprout-leaves.md
     kind: related
   - path: autogenesis/decisions/kva-inception.md

@@ -1,9 +1,0 @@
-name: discuss-atlas
-version: 0.1.0
-description: Dedicated Atlas knowledge store for the discuss skill (not a skill package). OKF root is git root.
-author: Sergio Sisternes
-license: Apache-2.0
-dependencies:
-  apm:
-    - sergio-sisternes-epam/okf
-    - sergio-sisternes-epam/atlas

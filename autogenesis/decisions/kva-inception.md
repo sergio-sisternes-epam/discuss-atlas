@@ -6,6 +6,8 @@ status: accepted
 work_id: "2026-08-26-discuss-mvp"
 description: "Inception note for the name KVA. Keep the Marvel Loki TVA analogy visible so the metaphor does not get lost."
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: autogenesis/plans/2026-08-26-discuss-mvp.md
     kind: related
 ---

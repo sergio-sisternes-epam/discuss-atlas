@@ -9,6 +9,8 @@ tags: [current-reality, thesis, discuss]
 origin: derived
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: founding/hub.md
     kind: derived_from
   - path: autogenesis/decisions/kva-inception.md

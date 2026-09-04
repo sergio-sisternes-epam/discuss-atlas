@@ -11,6 +11,8 @@ tags: [founding, hub, discussion-root]
 origin: derived
 sensitivity: internal
 relates_to:
+  - path: autogenesis/work/2026-08-26-discuss-mvp.md
+    kind: implements
   - path: thesis/current-reality.md
     kind: related
   - path: founding/original-idea.md

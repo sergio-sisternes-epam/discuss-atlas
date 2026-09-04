@@ -11,25 +11,20 @@ sensitivity: public
 
 Dedicated Atlas store for the discuss skill.
 
-This is a **knowledge store**, not a skill package. Git root **is** the OKF root (`SCHEMA.json`, `index.md`).
+This is a **mount-only knowledge store**, not an APM or skill package. Git root
+**is** the OKF root (`SCHEMA.json`, `index.md`).
 
 ```text
-atlas auth login --host github.com
-atlas mount github.com/sergio-sisternes-epam/discuss-atlas --ref main --target references/atlas
+atlas mount github.com/sergio-sisternes-epam/discuss-atlas --ref main
+atlas resolve github.com/sergio-sisternes-epam/discuss-atlas
 ```
 
-Mount path = compile/query root: `references/atlas`
+The default mount is
+`.atlas/github.com/sergio-sisternes-epam/discuss-atlas`. Use the path printed by
+`atlas resolve` as the compile and query root.
 
 In this repository:
 
 ```text
 atlas compile --root .
 ```
-
-## APM
-
-```text
-apm install sergio-sisternes-epam/discuss-atlas
-```
-
-Store package depends on `sergio-sisternes-epam/okf` and `sergio-sisternes-epam/atlas`.
