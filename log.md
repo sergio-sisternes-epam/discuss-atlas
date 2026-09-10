@@ -14,3 +14,4 @@
 - 2026-08-26: recorded sprout 0.3.1 under work 2026-08-26-residuals-vs-protostar.
 - 2026-08-30: Flattened OKF root to git root. SCHEMA.json and index.md now live at repository root (no nested atlas/).
 - 2026-09-04: Repaired 21 evidenced work-hub lineage edges required by the Atlas page contract.
+- 2026-09-10: Opened offering-development schema discussion root and initial protostars.
