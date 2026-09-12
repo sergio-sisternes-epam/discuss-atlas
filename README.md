@@ -28,3 +28,8 @@ In this repository:
 ```text
 atlas compile --root .
 ```
+
+## License
+
+Copyright (c) 2026 Sergio Sisternes. All rights reserved. The source is publicly
+readable but is not open source; see [LICENSE](LICENSE).
